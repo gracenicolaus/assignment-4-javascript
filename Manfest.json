@@ -1,0 +1,11 @@
+{
+ "name":"extension_grace","description":" extension grace",
+    "version":"0.1",
+    "backgroud_page":"background.html",
+      "browser_action":{
+     "popoup":"popup.html",
+    "default_icon":"icon.gif"
+  },
+ "permissions":["notifications"]
+
+}
